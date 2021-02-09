@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598192199743",
+    "firebase_url": "https://android-test-8f0e3.firebaseio.com",
+    "project_id": "android-test-8f0e3",
+    "storage_bucket": "android-test-8f0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598192199743:android:2a477fedc26ddebd80808a",
+        "android_client_info": {
+          "package_name": "com.example.soundd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598192199743-b4ui0avvrr4cdauq14n8a8r41lvmgllr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRL-uUHDX6IiD03wpGOTin9VI7bciq2o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598192199743-b4ui0avvrr4cdauq14n8a8r41lvmgllr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
